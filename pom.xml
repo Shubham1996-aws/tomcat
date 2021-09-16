@@ -48,5 +48,7 @@
   <artifactId>maven-war-plugin</artifactId>
   <version>3.0.0</version>
 </plugin>
-	
+	<properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>   
+</properties>
 </project>
