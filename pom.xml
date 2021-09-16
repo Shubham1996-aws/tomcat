@@ -44,10 +44,7 @@
 		<url>http://repo1.maven.org/maven2</url>
 	    </pluginRepository>
 	</pluginRepositories>
-<plugin>
-  <artifactId>maven-war-plugin</artifactId>
-  <version>3.0.0</version>
-</plugin>
+
 	<properties>
     <failOnMissingWebXml>false</failOnMissingWebXml>   
 </properties>
